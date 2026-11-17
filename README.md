@@ -1,5 +1,12 @@
-## Incident Report Analysis
+# Incident Response Analysis
 
+A simulated ICMP flood incident analysed through the five NIST CSF functions used in the original exercise: Identify, Protect, Detect, Respond and Recover.
+
+**Skills:** Incident response, network security, recovery planning
+
+## Project context
+
+This repository presents an educational exercise. References to organisations and incidents describe the exercise scenario, not professional employment or a client engagement.
 
 > ## Scenario
 >You are a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. Your organization recently experienced >a DDoS attack, which compromised the internal network for two hours until it was resolved.
@@ -99,3 +106,5 @@ Review **disaster recovery/continuity plans**.
  Combines **technical controls** (firewalls, IDS/IPS) and **processes** (training, monitoring, response planning).  
 Future investments in **traffic analysis and automated mitigation** will strengthen resilience.  
  **Continuous improvement** ensures defenses evolve against emerging threats. |
+
+[Back to my portfolio](https://github.com/aaraf18)
